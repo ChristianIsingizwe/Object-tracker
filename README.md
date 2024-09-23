@@ -46,5 +46,3 @@ _**Download Goturn caffemodel from**_ https://github.com/Mogball/goturn-files
 * OpenCV - It is used for processing images
 * Flask - Flask is a micro web framework written in Python. It is a lightweight WSGI web application framework.
 * GoTurn(Caffe model) - Model for effective object tracking.
-## Authors
-Made with ❤️ by Rohan Dubey - Complete work
